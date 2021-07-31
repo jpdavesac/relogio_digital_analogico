@@ -1,9 +1,12 @@
 <h1>Projeto Relógio Analógico + Digital</h1>
 <p>Pequeno projeto de um relógio analógico
-                 e digital. Somente visual, sem interações de clique.</p>
+e digital. Somente visual, sem interações de clique.</p>
 <hr>
 
-![GIF do relógio](relogio.gif)       
+![GIF do relógio](relogio.gif)     
+
+<p>Acesse a demonstração: https://jpdavesac.github.io/relogio_digital_analogico/</p>
+
 <hr>
 <ul> 
     <h2>Tecnologias Usadas</h2>
